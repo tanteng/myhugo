@@ -104,7 +104,7 @@ copyright = "tony老师"            # default: author.name ↓        # 默认�
 
   livereUID = ""            # LiveRe UID                  # 来必力
 
-  baiduPush = true        # baidu push                  # 百度
+  baiduPush = false        # baidu push                  # 百度
   baiduAnalytics = ""      # Baidu Analytics
   baiduVerification = ""   # Baidu Verification
   googleVerification = ""  # Google Verification         # 谷歌
