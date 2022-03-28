@@ -7,7 +7,6 @@ url: /2015/05/php-composer/
 duoshuo_thread_id:
   - 1.2310560994115E+18
 categories:
-  - Develop
   - PHP
 format: link
 

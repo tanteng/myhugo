@@ -1,15 +1,11 @@
 ---
-title: MySQL大表加字段思路
+title: MySQL 大表加字段思路
 author: 小谈
 type: post
 date: 2017-01-19T12:58:04+00:00
 url: /2017/01/mysql-alter-table-big-data/
-duoshuo_thread_id:
-  - 6377299259846296322
 categories:
-  - Develop
   - MySQL
-  - 数据库
 
 ---
 给 MySQL 一张表加字段执行如下 sql 就可以了：

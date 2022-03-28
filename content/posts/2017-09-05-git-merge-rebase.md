@@ -5,7 +5,6 @@ type: post
 date: 2017-09-05T10:42:56+00:00
 url: /2017/09/git-merge-rebase/
 categories:
-  - Develop
   - Git
 
 ---

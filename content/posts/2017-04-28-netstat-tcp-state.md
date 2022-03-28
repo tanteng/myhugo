@@ -5,7 +5,7 @@ type: post
 date: 2017-04-28T03:37:31+00:00
 url: /2017/04/netstat-tcp-state/
 categories:
-  - 服务器
+  - Linux
 
 ---
 统计 tcp 各种状态的个数：

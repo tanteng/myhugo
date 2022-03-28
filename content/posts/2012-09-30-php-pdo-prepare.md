@@ -5,7 +5,6 @@ type: post
 date: 2012-09-30T04:03:39+00:00
 url: /2012/09/php-pdo-prepare/
 categories:
-  - Develop
   - PHP
 
 ---

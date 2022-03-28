@@ -1,11 +1,11 @@
 ---
-title: 10条Steve Jobs的经典语录
+title: 10 条 Steve Jobs 的经典语录
 author: 深 呼吸
 type: post
 date: 2012-09-27T02:35:18+00:00
 url: /2012/09/10-golden-lessons-from-steve-jobs/
 categories:
-  - 读书笔记
+  - Reding
 
 ---
 <span style="color: #888888;"><strong>史蒂夫·乔布斯经典语录</strong></span>
