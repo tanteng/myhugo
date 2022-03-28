@@ -5,7 +5,7 @@ type: post
 date: 2015-03-14T04:07:15+00:00
 url: /2015/03/last-night-dream/
 categories:
-  - 日常生活
+  - Life
 tags:
   - 武汉
 

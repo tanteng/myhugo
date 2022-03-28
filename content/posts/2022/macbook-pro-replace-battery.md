@@ -6,7 +6,7 @@ url: /2021/10/macbook-pro-replace-battery/
 description: 这两台 MacBook Pro 都过保了。 一台是公司的 MacBook Pro 归个人，电池废了，续航只有半个小时； 一台是自用好多年的 MacBook Pro，突然发现底部怎么放不平了，原来是电池老化鼓包了。
 author: 谈腾
 categories:
-  - 日常生活
+  - Life
   
 tags:
   - MacBook Pro

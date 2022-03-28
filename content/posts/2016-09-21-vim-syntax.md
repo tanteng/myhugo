@@ -1,11 +1,11 @@
 ---
-title: vim常用操作
+title: vim 常用操作
 author: 深 呼吸
 type: post
 date: 2016-09-21T14:06:02+00:00
 url: /2016/09/vim-syntax/
 categories:
-  - 服务器
+  - Linux
 
 ---
 vim 在 Linux 下使用很多，但是习惯了在 Windows 下的文本操作，在 vim 中进行文本操作会觉得很不方便，但是 vim 是一个很强大的工具，只是还不熟练去使用它，下面是一些常用的 vim 文本操作方法。
