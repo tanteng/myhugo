@@ -9,7 +9,7 @@ categories:
   - Life
   
 tags:
-  - MacBook Pro
+  - cook
 summary: 这是我在家一次煎牛排的 vlog，发现用铸铁锅煎差不多快 7 成熟，然后再放空气炸锅“炸”一下，口感比之前好很多。
 draft: false
 ---
