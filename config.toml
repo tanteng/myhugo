@@ -182,7 +182,7 @@ copyright = "tony老师"            # default: author.name ↓        # 默认�
     pagePV = true
 
   [params.reward]                                         # 文章打赏
-    enable = true
+    enable = false
     wechat = "https://notes-1303209934.cos.ap-guangzhou.myqcloud.com/2022/03/b0fc567a0dd59bd48397e1dcae64f9b6.jpeg"           # 微信二维码
     alipay = "https://notes-1303209934.cos.ap-guangzhou.myqcloud.com/2022/03/2fe2a2f2d0b764d2b0964152c44533f5.jpeg"           # 支付宝二维码
 
